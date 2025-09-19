@@ -6,7 +6,7 @@ Developed a modern e-commerce store for **Glow Vibes Cosmetic**, with custom Sho
 - Shopify (Liquid)
 - HTML, CSS, JavaScript
 
-## 🌐 Live Demo
+## 🌐 Live Website 
 https://www.glowvibescosmetic.com/
 
 ## ✨ Features
